@@ -13,3 +13,9 @@
 * cd - 디렉토리 이동
 * ls - 디렉토리 및 파일목록 출력
 * clear - 화면 지우기
+
+## Git 명령어
+* git status
+* git add
+* git commit
+* git branch
